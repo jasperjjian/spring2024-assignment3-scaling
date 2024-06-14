@@ -1,0 +1,11 @@
+d_model	num_layers	num_heads	batch_size	learning_rate	train_flops
+64	8	4	256	1e-3	1e13
+128	2	4	256	1e-3	1e13
+64	24	4	256	1e-3	1e13
+128	6	4	256	1e-3	1e13
+64	12	4	256	1e-3	1e13
+128	3	4	256	1e-3	1e13
+128	24	4	256	1e-3	1e13
+256	6	4	256	1e-3	1e13
+128	12	4	256	1e-3	1e13
+256	3	4	256	1e-3	1e13
